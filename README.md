@@ -16,4 +16,5 @@ Avoids duplicate emails.
 #**Requirements**
 
 **GitHub Token**:The script requires a GitHub Personal Access Token with at least public repo access.
+
 Replace the GITHUB_TOKEN value in the script with your token.
